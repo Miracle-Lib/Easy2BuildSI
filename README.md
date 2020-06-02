@@ -1,2 +1,8 @@
-# Easy2BuildSI
-Easy to build nice and slim docker images -_- 
+# CICD Templates
+
+A. Autobuild configurations
+
+B. E2E Test Scripts
+
+C. Optional YAMLS
+
