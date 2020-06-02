@@ -1,3 +1,3 @@
-docker build -t thebccv/golanglearning:base .
+docker build -t userid/golanglearning:base .
 read -p "Yes to test, ^C to Stop : "
-docker run -it thebccv/golanglearning:base
+docker run -it --rm userid/golanglearning:base
