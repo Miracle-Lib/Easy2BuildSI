@@ -1,4 +1,4 @@
-# CICD Templates
+# Easy2BuildSI
 
 A. Autobuild configurations
 
